@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "concurrently": "^4.1.0",
-    "electron": "^4.1.1",
+    "electron": "^9.4.0",
     "electron-builder": "^20.39.0",
     "typescript": "^3.3.4000",
     "wait-on": "^3.2.0"
